@@ -20,7 +20,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Noreddine",
     author_email="your.email@example.com",  # Replace with your email
-    url="https://github.com/noreddine/resumeio-dl",  # Replace with your GitHub repo
+    url="https://github.com/anouar1991/resumeio-dl",  # Replace with your GitHub repo
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[

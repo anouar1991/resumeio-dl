@@ -18,9 +18,9 @@ setup(
     description="Download resumes from resume.io as PDF files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Noreddine",
-    author_email="your.email@example.com",  # Replace with your email
-    url="https://github.com/anouar1991/resumeio-dl",  # Replace with your GitHub repo
+    author="Noreddine Belhadj Cheikh",
+    author_email="noreddine.belhadjcheikh@gmail.com",
+    url="https://github.com/anouar1991/resumeio-dl",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
